@@ -1,0 +1,26 @@
+{
+  "name": "html-ts",
+  "version": "1.0.0",
+  "description": "在html引入 .ts 文件实现热加载",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidaxuan/html-ts.git"
+  },
+  "author": "lidaxuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lidaxuan/html-ts/issues"
+  },
+  "homepage": "https://github.com/lidaxuan/html-ts#readme"
+}

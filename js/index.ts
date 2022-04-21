@@ -5,3 +5,7 @@
  * @FilePath: /html-ts/js/index.ts
  */
 let flag: boolean = false;
+
+const str: string = '22232';
+console.log(flag);
+console.log(str);
